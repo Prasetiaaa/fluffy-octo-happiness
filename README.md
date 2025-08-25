@@ -1,3 +1,2 @@
 # fluffy-octo-happiness
-A test subject Octopus
-/n before we delve deep into this project
+A test subject Octopus	before we delve deep into this project
